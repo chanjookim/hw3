@@ -1,0 +1,25 @@
+main{
+    padding: 30px;
+    background-color: aqua;
+    
+}
+
+.intro {
+  height: 150px;
+  width: 250px;
+  background-color: #bf6a79; 
+  background-image: linear-gradient(to right, #bf6a79 , #aa8fcf);
+}
+
+.second{
+    height: 150px;
+    width: 250px;
+    background-color: blue; 
+    background-image: linear-gradient(to right, green , #aa8fcf);
+}
+
+
+
+
+
+
